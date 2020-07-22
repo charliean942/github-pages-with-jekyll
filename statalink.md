@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
+title: "Test Stata"
 permalink: /statalink/
 
 contents
