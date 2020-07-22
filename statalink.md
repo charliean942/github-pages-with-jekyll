@@ -1,5 +1,8 @@
 layout: page
-title: "Test Stata"
+title: "How to use Moment Forests on Stata"
 permalink: /statalink/
 
-contents
+
+## Components
+
+The codes are grouped into two folders: jars and java. 
